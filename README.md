@@ -1,3 +1,11 @@
+<h1 align='center'>
+  Hi there 👋 I'm Rasul 👨‍💻
+</h1>
+
+<p align='center'>
+  A developer from Russia learning every day.
+</p>
+
 
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=PuppyLo&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
