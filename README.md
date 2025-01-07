@@ -16,12 +16,13 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=PuppyLo&theme=darkhub" />
+    <img src="https://count.getloli.com/get/@PuppyLo?theme=rule34" />
 </p>
 
 <p align='center'>
-    <img src="https://count.getloli.com/get/@PuppyLo?theme=rule34" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PuppyLo&theme=darkhub" />
 </p>
+
 
 <!--
 
