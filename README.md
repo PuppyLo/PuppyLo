@@ -12,7 +12,7 @@
 </p>
 
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuppyLo&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuppyLo&layout=compact&theme=dark" />
 </p>
 
 <p align='center'>
