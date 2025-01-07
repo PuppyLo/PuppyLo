@@ -20,21 +20,18 @@
 </p>
 
 <p align='center'>
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=PuppyLo&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
-
-<p align='center'>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuppyLo&layout=compact)   
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuppyLo&layout=compact" />
 </p>
 
 <p align='center'>
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=PuppyLo&theme=darkhub" />
+</p>
+
+<p align='center'>
+    <img src="[https://github-profile-trophy.vercel.app/?username=PuppyLo&theme=darkhub](https://count.getloli.com/get/@PuppyLo?theme=rule34)" />
+</p>
+
 ![:PuppyLo](https://count.getloli.com/get/@PuppyLo?theme=rule34)
-
-</p>
 
 <!--
 
