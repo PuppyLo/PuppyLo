@@ -6,14 +6,6 @@
   A developer from Russia learning every day.
 </p>
 
-<p align='center'>
-  <a href="https://github.com/sponsors/alexandresanlim">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
-  </a>
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=PuppyLo&show_icons=true&count_private=true&theme=dark" width="350"></a>
